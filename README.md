@@ -12,6 +12,6 @@
 - JavaScript: For data handling and rendering.
 
 # Project Structure
-index.js: Entry point of the React application, rendering the root component.
-index.css: Contains all the styling rules for the application.
-data.js: Contains the data for various tourist destinations, including details like name, description, image, and price.
+- index.js: Entry point of the React application, rendering the root component.
+- index.css: Contains all the styling rules for the application.
+- data.js: Contains the data for various tourist destinations, including details like name, description, image, and price.
