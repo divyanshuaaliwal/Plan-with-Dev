@@ -1,5 +1,7 @@
 # Plan-with-Dev
 
+Welcome to the Tourist Destinations App repository! This is a React-based web application designed to showcase various tourist destinations in India. The application provides detailed information about each destination, including an image, description, and price. The design is responsive and visually appealing, making it easy for users to explore different travel options.
+
 # Features
 - List of Destinations: Displays a list of popular tourist destinations with key details.
 - Responsive Design: Ensures a seamless experience on different devices.
